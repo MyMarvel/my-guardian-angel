@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bevy = "0.13.0"
+bevy_egui = "0.25.0"
+humantime = "2.1.0"
+rand = "0.8.5"
+random_name_generator = "0.3.6"
